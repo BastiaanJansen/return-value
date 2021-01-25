@@ -1,6 +1,6 @@
 # Return Value
 
-# Installation
+## Installation
 
 ```
 npm install return-value
