@@ -7,12 +7,6 @@
  * @author Owen Elderbroek
  */
 
-/**
- *
- */
 export declare type ValueFunction = <T>(value: T) => T;
 
-/**
- *
- */
 export const returnValue: ValueFunction;
