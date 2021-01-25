@@ -1,5 +1,13 @@
 # Return Value
 
+# Installation
+
+```
+npm install return-value
+```
+
+## Usage
+
 ```ts
 import { returnValue } from "return-value";
 
