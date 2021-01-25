@@ -1,0 +1,23 @@
+{
+  "name": "return-value",
+  "version": "1.0.1",
+  "description": "A package which returns a paramater value",
+  "main": "src/index.js",
+  "types": "src/index.d.ts",
+  "type": "module",
+  "scripts": {
+    "test": "mocha 'test/**/*.ts'"
+  },
+  "author": "Bastiaan Jansen",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/chai": "^4.2.14",
+    "@types/mocha": "^8.2.0",
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1"
+  },
+  "dependencies": {
+    "ts-node": "^9.1.1",
+    "typescript": "^4.1.3"
+  }
+}
