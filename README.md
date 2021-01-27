@@ -1,5 +1,12 @@
 # Return Value
 
+The all on in one npm package for all your input = output needs.
+This package simply returns whatever you pass into it.
+Can be used as a stub for a function that should return the values passed into it.
+
+We have 100% test coverage.
+This way we can guarantee that this function behaves exactly as expected.
+
 ## Installation
 
 ```
