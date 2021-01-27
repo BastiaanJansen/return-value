@@ -12,10 +12,12 @@ describe("return value test cases", () => {
 	});
 
 	it("should return a a jojo's reference", () => {
-		expect(returnValue("ほう... 向かってくるのか")).to.equal("ほう... 向かってくるのか").and.to.be.a("string");
+		expect(returnValue("ほう... 向かってくるのか"))
+			.to.equal("ほう... 向かってくるのか")
+			.and.to.be.a("string");
 	});
 
 	it("should return a poop emoji", () => {
-		expect(returnValue('💩')).to.equal('💩').and.to.be.a("string");
+		expect(returnValue("💩")).to.equal("💩").and.to.be.a("string");
 	});
 });
