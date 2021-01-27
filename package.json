@@ -1,7 +1,7 @@
 {
   "name": "return-value",
-  "version": "1.0.4",
-  "description": "A package which returns a paramater value",
+  "version": "1.0.5",
+  "description": "The all on in one npm package for all your input = output needs. This package simply returns whatever you pass into it. Can be used as a stub for a function that should return the values passed into it.",
   "main": "src/index.js",
   "types": "src/index.d.ts",
   "scripts": {
