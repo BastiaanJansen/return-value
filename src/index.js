@@ -6,5 +6,7 @@ module.exports = {
      * @author Owen Elderbroek
      * @param {*} value value you want returned
      */
-    returnValue: value => value
+    returnValue: function(value) {
+        return value;
+    }
 }

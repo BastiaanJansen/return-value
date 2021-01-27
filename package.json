@@ -1,6 +1,6 @@
 {
   "name": "return-value",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "A package which returns a paramater value",
   "main": "src/index.js",
   "types": "src/index.d.ts",
